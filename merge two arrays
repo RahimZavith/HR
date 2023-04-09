@@ -1,0 +1,5 @@
+Step 1 : Append the element of array2 in array1.
+Step 2: Sort array1. Now array 1 have all the elements that we have got after merging both array.
+Step 3: Add n2 elements in array2 from last.
+Step 4: Let array1 have initial n1 elements.
+Step 5: Print both the array.
